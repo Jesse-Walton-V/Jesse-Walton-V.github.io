@@ -1,16 +1,47 @@
-## Hi there 👋
-# Welcome to My Portfolio
-<!--
-**Jesse-Walton-V/Jesse-Walton-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Jesse Walton V
+**Aspiring Game Developer | CS Student**
 
-Here are some ideas to get you started:
+Welcome to my portfolio! I’m passionate about programming, gaming, and photography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- Currently studying Computer Science with a minor in American Popular Culture Studies
+- Interested in neural networks, game design, and data visualization
+- Love building creative projects in Java and Python
+
+---
+
+## 💻 Projects
+### 🧩 Untitled rhythm game 
+**Technologies:** Godot
+Work in progress project to create a rhythm based game.  
+
+---
+
+## 🧰 Skills
+- **Languages:** Java, Python, GDScript  
+- **Tools:** Git, VS Code, Godot, IntelliJ
+
+---
+
+## 🧑‍💼 Experience
+**Crew Member - Dairy Queen 2024-2025**  
+  Worked in teams with matchday assistants and RAVE Foundation and the Social Impact team.
+  Wrote 3 professional emails a day to clients as well as customers.
+  Mentored youth as well as providing entertainment for adults.
+  Assisted in maintaining a fast paced but fun and enjoyable learning experience.
+
+
+---
+
+## 📄 Resume
+[Download my resume (PDF)](Jesse_Walton_V_Resume.pdf)
+
+---
+
+## 📬 Contact
+- **Email:** waltonjesse123@gmail.com  
+- [LinkedIn](https://linkedin.com/in/jesse-walton-v)
+- [GitHub](https://github.com/Jesse-Walton-V)
+
