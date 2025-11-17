@@ -1,14 +1,16 @@
 # 👋 Hi, I’m Jesse Walton V
 **Aspiring Game Developer | CS Student**
 
-Welcome to my portfolio! I’m passionate about programming, gaming, and photography.
+Welcome to my portfolio! I’m passionate about programming, gaming, photography, and music.
+I hope to use these passions to enhance my job experience and create something that draws from
+all my passions.
 
 ---
 
 ## 🧠 About Me
-- Currently studying Computer Science with a minor in American Popular Culture Studies
-- Interested in neural networks, game design, and data visualization
-- Love building creative projects in Java and Python
+- Currently studying Computer Science BA with a minor in American Popular Culture Studies
+- Interested in game design, typically front end graphical user interfaces.
+- Love building creative projects in Java and Godot, with plans to move to Unity.
 
 ---
 
@@ -42,6 +44,6 @@ Work in progress project to create a rhythm based game.
 
 ## 📬 Contact
 - **Email:** waltonjesse123@gmail.com  
-- [LinkedIn](https://linkedin.com/in/jesse-walton-v)
-- [GitHub](https://github.com/Jesse-Walton-V)
+- [LinkedIn] (https://linkedin.com/in/jesse-walton-v)
+- [GitHub] (https://github.com/Jesse-Walton-V)
 
