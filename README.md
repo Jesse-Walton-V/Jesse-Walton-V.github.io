@@ -38,12 +38,12 @@ Work in progress project to create a rhythm based game.
 ---
 
 ## 📄 Resume
-[Download my resume (PDF)](Jesse_Walton_V_Resume.pdf)
+[Download my resume (PDF)] (Jesse_Walton_V_Resume.pdf)
 
 ---
 
 ## 📬 Contact
 - **Email:** waltonjesse123@gmail.com  
-- [LinkedIn] (https://linkedin.com/in/jesse-walton-v)
-- [GitHub] (https://github.com/Jesse-Walton-V)
+- **LinkedIn:** (https://linkedin.com/in/jesse-walton-v)
+- **GitHub:** (https://github.com/Jesse-Walton-V)
 
