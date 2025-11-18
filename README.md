@@ -21,6 +21,7 @@ Work in progress project to create a rhythm based game.
 
 ### Tetris 
 **Technologies:** IntelliJ, Java
+
 Group project involving creating a front end GUI and developing new
 features using a pre existing back-end.
 
