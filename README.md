@@ -20,7 +20,7 @@ all my passions.
 
 Work in progress project to create a rhythm based game.
 
-### Tetris 
+### [Tetris]([url](https://github.com/WaiLok0622/group11-tetris)) 
 **Technologies:** IntelliJ, Java 
 
 Group project involving creating a front end GUI and developing new
