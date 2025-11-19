@@ -1,5 +1,7 @@
 # Hi, I’m Jesse Walton V
-**Aspiring Game Developer | CS Student**
+**Aspiring Game Developer | CS Student** 
+
+<img src="IMG_20251107_090140_109.webp" width="200" height="200">
 
 Welcome to my portfolio! I’m passionate about programming, gaming, photography, and music.
 I hope to use these passions to enhance my job experience and create something that draws from
@@ -20,7 +22,7 @@ all my passions.
 
 Work in progress project to create a rhythm based game.
 
-### [Tetris]([url](https://github.com/WaiLok0622/group11-tetris)) 
+### [Tetris](https://github.com/WaiLok0622/group11-tetris) 
 **Technologies:** IntelliJ, Java 
 
 Group project involving creating a front end GUI and developing new
