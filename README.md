@@ -26,7 +26,8 @@ Work in progress project to create a rhythm based game.
 **Technologies:** IntelliJ, Java 
 
 Group project involving creating a front end GUI and developing new
-features using a pre existing back-end.
+features using a pre existing back-end. Also required managing and working 
+cohesively with a team.
 
 ---
 
@@ -38,10 +39,10 @@ features using a pre existing back-end.
 
 ## Experience
 **Crew Member - Dairy Queen 2024-2025**  
-  Worked in teams with matchday assistants and RAVE Foundation and the Social Impact team.
-  Wrote 3 professional emails a day to clients as well as customers.
-  Mentored youth as well as providing entertainment for adults.
-  Assisted in maintaining a fast paced but fun and enjoyable learning experience.
+ Worked independently with little oversight. 
+ Resolved customer complaints quickly and efficiently. 
+ Polished interpersonal skills working the register and drive through. 
+ Handled a high volume of customer interactions patiently and professionally.
 
 
 ---
