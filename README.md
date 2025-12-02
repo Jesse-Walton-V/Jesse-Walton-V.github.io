@@ -17,7 +17,7 @@ all my passions.
 ---
 
 ## Projects
-### Untitled rhythm game 
+### Bard Battle
 **Technologies:** Godot
 
 Work in progress project to create a rhythm based game.
@@ -52,5 +52,5 @@ features using a pre existing back-end.
 ---
 
 ## Contact
-**Email:** waltonjesse123@gmail.com       **LinkedIn:** (https://linkedin.com/in/jesse-walton-v)       **GitHub:** (https://github.com/Jesse-Walton-V)
+**Email:** waltonjesse123@gmail.com       **LinkedIn:** [(https://linkedin.com/in/jesse-walton-v)]       **GitHub:** [(https://github.com/Jesse-Walton-V)]
 
