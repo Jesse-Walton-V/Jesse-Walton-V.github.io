@@ -52,5 +52,6 @@ features using a pre existing back-end.
 ---
 
 ## Contact
-**Email:** waltonjesse123@gmail.com       **LinkedIn:** [(https://linkedin.com/in/jesse-walton-v)]       **GitHub:** [(https://github.com/Jesse-Walton-V)]
-
+**Email:** waltonjesse123@gmail.com &nbsp;&nbsp; | &nbsp;&nbsp;
+**LinkedIn:** [LinkedIn](https://linkedin.com/in/jesse-walton-v) &nbsp;&nbsp; | &nbsp;&nbsp;
+**GitHub:** [GitHub](https://github.com/Jesse-Walton-V)
