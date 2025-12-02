@@ -1,5 +1,3 @@
-theme: jekyll-theme-midnight
-
 # Hi, I’m Jesse Walton V
 **Aspiring Game Developer | CS Student** 
 
