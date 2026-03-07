@@ -20,7 +20,7 @@ all my passions.
 ### Bard Battle
 **Technologies:** Godot
 
-Work in progress project to create a rhythm based game.
+Work in progress project to create a rhythm based game using Godot.
 
 ### [Tetris](https://github.com/WaiLok0622/group11-tetris) 
 **Technologies:** IntelliJ, Java 
